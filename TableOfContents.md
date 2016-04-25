@@ -1,0 +1,5 @@
+  * [What is the Ant Script Visualizer?](Introduction.md)
+    * [Using the Ant Script Visualizer](Using.md)
+    * [Building the Ant Script Visualizer](Building.md)
+    * [Running the Ant Script Visualizer](Running.md)
+    * [What do all the colors and shapes mean?](WhatDoesItMean.md)
